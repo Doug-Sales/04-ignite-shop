@@ -1,0 +1,14 @@
+{
+  "editor.peekWidgetDefaultFocus": "tree",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "line",
+  "editor.minimap.side": "right",
+  "editor.quickSuggestionsDelay": 10,
+  "editor.snippetSuggestions": "inline",
+  "editor.suggest.showStatusBar": false,
+  "editor.suggest.showSnippets": true,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "workbench.list.mouseWheelScrollSensitivity": 1,
+  "search.defaultViewMode": "list",
+  "debug.openExplorerOnEnd": false
+}

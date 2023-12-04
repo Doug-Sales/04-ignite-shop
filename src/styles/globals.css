@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind utilities;
+
+@tailwind components;
+
+
+
+body {
+  background-color: #121214;
+  color: #e1e1e6;
+  
+}
+
+#screenSize{
+  max-width: calc(100vw - ((100vw - 1180px) / 2));
+}
+
+* {
+  box-sizing: border-box;
+}
+
+
+
